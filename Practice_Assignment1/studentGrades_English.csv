@@ -1,15 +1,3 @@
-﻿firstName,lastName,studentID,grade
-Emma,Smith,10959,95
-Sophia,Robinson,75175,88
-Emma,Taylor,42257,87
-David,Robinson,55148,86
-Stephen,Curry,30303,90
-Isabella,Thompson,72824,88
-Jasmine,Smith,70385,84
-James,Jones,87707,76
-Sarah,Swift,61026,80
-Anne,Clark,90449,82
-Ryan,Thomas,62137,92
-Daniel,White,25477,91
-Sara,Doe,47991,98
-Matthew,White,25376,80
+version https://git-lfs.github.com/spec/v1
+oid sha256:797f6ac7e934d3f4fcd0e9aa17a69ca7bff863637c18a42a3ffbd5dd9ecb4c9b
+size 362
